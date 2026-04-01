@@ -1,2 +1,2 @@
-# house-prices-analysis
-Exploratory Data Analysis and Price Prediction of House Prices dataset
+# netflix-analysis
+Exploratory Data Analysis and Price Prediction of Netflix Analysis dataset
